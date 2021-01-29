@@ -22,6 +22,23 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 - Crear instancias de WordPress (o webs, o aplicaciones web) en EC2 #aprendiendo
 - Hacer lo mismo pero con Docker para trabajar en local #aprendiendo
 
+---
+**Fecha**: 29/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+- Crear producto variable con generación automática de todas las variaciones con sus precios correspondientes a partir de una tabla de precios previamente rellenada por el usuario admin. El usuario rellena los datos de un CPT y según el post_type se crea un producto con su categoría, datos y su conjunto de variaciones, atributos y precios. 15 días de lucha con el asunto hasta que he podido conseguir que funcione de forma estable. #trabajando #woocommerce #por_fin #liberación #que_les_den #toma_ya
+
+
+**Próximos hitos**:
+
+- Crear instancias de WordPress (o webs, o aplicaciones web) en EC2 #aprendiendo
+- Hacer lo mismo pero con Docker para trabajar en local #aprendiendo
+
+---
+
 ## **Badges**
 
 A la espera de que se generen las primeras insignias. ¡Qué ilusión!
