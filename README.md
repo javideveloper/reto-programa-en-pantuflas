@@ -18,7 +18,7 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 **Próximos hitos**:
 
-- ~~Crear todas las variaciones de un producto de forma automática (segundo plano) al crearse un producto de una determinada categoría. #trabajando #woocommerce~
+- ~~Crear todas las variaciones de un producto de forma automática (segundo plano) al crearse un producto de una determinada categoría. #trabajando #woocommerce~~
 - Crear instancias de WordPress (o webs, o aplicaciones web) en EC2 #aprendiendo
 - Hacer lo mismo pero con Docker para trabajar en local #aprendiendo
 
