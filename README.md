@@ -18,7 +18,7 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 **Próximos hitos**:
 
-- Crear todas las variaciones de un producto de forma automática (segundo plano) al crearse un producto de una determinada categoría. #trabajando #woocommerce
+- ~~Crear todas las variaciones de un producto de forma automática (segundo plano) al crearse un producto de una determinada categoría. #trabajando #woocommerce~
 - Crear instancias de WordPress (o webs, o aplicaciones web) en EC2 #aprendiendo
 - Hacer lo mismo pero con Docker para trabajar en local #aprendiendo
 
@@ -34,8 +34,24 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 **Próximos hitos**:
 
-- Crear instancias de WordPress (o webs, o aplicaciones web) en EC2 #aprendiendo
+- ~~Crear instancias de WordPress (o webs, o aplicaciones web) en EC2 #aprendiendo~
 - Hacer lo mismo pero con Docker para trabajar en local #aprendiendo
+
+---
+**Fecha**: 01/02/2021
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+- Crear instancia en EC2 para un proyecto en WordPress. No es funcional. Tengo problemas de permisos hasta tal punto que me he cargado la instancia intentándolo solucionar #aprendiendo
+
+
+**Próximos hitos**:
+
+- Arreglar instancia EC2 Wordpress. Solucionar problemas de permisos. #aprendiendo
+- Hacer lo mismo pero con Docker para trabajar en local #aprendiendo
+- Crear un plugin (versión alfa) aprovechando el código hecho para las variaciones (29/01/2021) pero que sirva para cualquier proyecto en general #side_project
 
 ---
 
